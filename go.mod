@@ -1,1 +1,1 @@
-module github.com/gorilla/securecookie
+module github.com/keep94/securecookie
